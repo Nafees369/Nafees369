@@ -1,7 +1,7 @@
 - Hi, I’m @Nafees369 currently pursuing my degree in software engineering.
-- I’m interested in App development. I've experience in flutter, firebase, API integration, GetX and BLOC. Also, I'm familiar with JS, PHP and MySQL/NoSQL. I've develop several web & app development projects which are available on my github. 
-- Also, I've interest in Ai and I’m currently learning RAG and ML Techniques and working on Ai based project.
-- I’m available for freelancing and if you wan'na collaborate with me. Then, reach out me via my portfolio or email.
+-  I have practical experience in programming languages and technologies including C/C++, AI/ML, Flutter, MySQL/NoSQL, and Firebase.
+-  My research interest lies in applying machine learning to solve real-world problems in intelligent software systems.
+- I’m available for freelancing and if you want to collaborate with me. Then, reach out me via my portfolio or email.
 - You can reach out me on my email:
 - nafees.aiworld@gmail.com 
 
